@@ -1,0 +1,7 @@
+.qr-container{
+    background-color: #2C7DFA;
+    display: block;
+    width: 18rem;
+    height: 18rem;
+    border-radius: 0.625rem;
+}
