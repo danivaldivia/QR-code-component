@@ -1,7 +1,8 @@
 .card{
     background-color: var(--white);
-    width: 18rem;
-    height: 28rem; 
+    box-sizing: border-box;
+    width: 20rem;
+    height: 31.25rem; 
     border-radius: 1.25rem;
     display: flex;
     flex-direction: column;
