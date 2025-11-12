@@ -7,7 +7,7 @@
     font-weight: 700;
     font-size: 22px;
     line-height: 120%;
-    text-decoration: underline;
+    /* text-decoration: underline; */
     margin: 0 0 1rem 0;
 }
 .card__description{
@@ -16,4 +16,10 @@
     font-size: 15px;
     line-height: 140%;
     letter-spacing: 0.2px;
+}
+
+@media screen and (min-width: 1024px){
+    .card__title{
+    text-decoration: underline; 
+}
 }

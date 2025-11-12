@@ -2,13 +2,12 @@
     background-color: var(--white);
     box-sizing: border-box;
     width: 20rem;
-    height: 31.25rem; 
     border-radius: 1.25rem;
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    padding: 1rem 1rem 2.5rem 1rem;
+    padding: 1rem;
+    padding-bottom: 2.5rem;
     gap: 1.5rem;
 }
